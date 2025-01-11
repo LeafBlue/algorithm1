@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\c\u002B\u002Bproject\\algorithm1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EED6AF99-73FD-4C6E-829F-51CFDC9225F4}|algorithm1.vcxproj|F:\\c\u002B\u002Bproject\\algorithm1\\test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EED6AF99-73FD-4C6E-829F-51CFDC9225F4}|algorithm1.vcxproj|solutionrelative:test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED6AF99-73FD-4C6E-829F-51CFDC9225F4}|algorithm1.vcxproj|F:\\c\u002B\u002Bproject\\algorithm1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EED6AF99-73FD-4C6E-829F-51CFDC9225F4}|algorithm1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED6AF99-73FD-4C6E-829F-51CFDC9225F4}|algorithm1.vcxproj|F:\\c\u002B\u002Bproject\\algorithm1\\algorithms.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EED6AF99-73FD-4C6E-829F-51CFDC9225F4}|algorithm1.vcxproj|solutionrelative:algorithms.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test1.cpp",
+              "DocumentMoniker": "F:\\c\u002B\u002Bproject\\algorithm1\\test1.cpp",
+              "RelativeDocumentMoniker": "test1.cpp",
+              "ToolTip": "F:\\c\u002B\u002Bproject\\algorithm1\\test1.cpp",
+              "RelativeToolTip": "test1.cpp",
+              "ViewState": "AgIAAFABAAAAAAAAAAAgwFgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T10:42:01.316Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "algorithms.h",
+              "DocumentMoniker": "F:\\c\u002B\u002Bproject\\algorithm1\\algorithms.h",
+              "RelativeDocumentMoniker": "algorithms.h",
+              "ToolTip": "F:\\c\u002B\u002Bproject\\algorithm1\\algorithms.h",
+              "RelativeToolTip": "algorithms.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T10:40:58.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\c\u002B\u002Bproject\\algorithm1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "F:\\c\u002B\u002Bproject\\algorithm1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T08:42:05.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
